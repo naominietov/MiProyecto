@@ -1,4 +1,4 @@
-Proyecto - "Sistema de cobro de un hospital"
+Proyecto - "Administración de un hospital"
 
 Creado por: Naomi Estefanía Nieto Vega A01706095
 
