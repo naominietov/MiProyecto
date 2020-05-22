@@ -29,5 +29,6 @@ Para este avance solo se implemento la herencia de paciente a la clase hospitali
 aunque para futuras entregas se crearán más, por lo que aqui solo se muestra paciente
 y su clase hija hospitalizado para futuras entregas se implementarán las demás clases
 incluyendo ambulatorio y las demás.
-Solo se crea un objeto de tipo hospitalizado.
+Solo se crea un objeto de tipo hospitalizado.Nota: Al UML solo se le modifico un atributo la 
+fecha de nacimiento y se cambio por la edad
 */
